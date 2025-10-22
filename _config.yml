@@ -38,7 +38,7 @@ facebook:
   username:
 
 # Copyright
-copyright: "© 2024 Barony of Andelcrag, SCA, Inc."
+copyright: "© 2025 Barony of Andelcrag, SCA, Inc."
 
 # Collections (for future expansion)
 collections:
@@ -66,4 +66,5 @@ defaults:
       path: ""
       type: "officers"
     values:
+
       layout: "officer" 
