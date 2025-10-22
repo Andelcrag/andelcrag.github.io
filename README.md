@@ -77,9 +77,10 @@ Add news items to the homepage or create a news section by modifying the HTML st
 ## Contact
 
 For technical issues with the website, contact the Web Minister:
-- **Lord Sai'd al-Abzari** (Mitchell Ryan)
-- Email: baronyofandelcrag@gmail.com
+- **Lord Breandán Jakobsson** (Josh Jordan)
+- Email: andelcrag.webminister@midrealm.org
 
 ---
+
 
 *This website is maintained by the Barony of Andelcrag Web Minister and is the official website for the Barony of Andelcrag of the Society for Creative Anachronism, Inc.* 
